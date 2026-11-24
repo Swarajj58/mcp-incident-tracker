@@ -1,0 +1,5 @@
+2026-11-23T12:40:02Z INFO checkout-api order_id=ord_101 status=200 latency_ms=42
+2026-11-23T12:45:19Z INFO checkout-api order_id=ord_102 status=200 latency_ms=39
+2026-11-23T12:51:04Z ERROR checkout-api order_id=ord_103 status=500 error="KeyError: 'discount_tier'" path="checkout_service.py:4"
+2026-11-23T12:51:05Z ERROR checkout-api order_id=ord_104 status=500 error="KeyError: 'discount_tier'" path="checkout_service.py:4"
+2026-11-23T12:51:09Z ERROR checkout-api order_id=ord_105 status=500 error="KeyError: 'discount_tier'" path="checkout_service.py:4"
